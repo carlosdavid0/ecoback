@@ -5,7 +5,8 @@ const receitas = [
   {
     id: "7097e156",
     title: "Bolinhos de talos e folhas",
-    cover: "",
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717767800/recicla%2B/receitas/Bolinhos%20de%20talos%20e%20folhas.jpg",
     content: `<h2 id="ingredientes-">Ingredientes:</h2>
 <ul>
 <li>3 ovos bem batidos</li>
@@ -30,7 +31,8 @@ const receitas = [
   {
     id: "c3dada90",
     title: "Macarrão com ramas de cenoura",
-    cover: "",
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717767993/recicla%2B/receitas/Macarr%C3%A3o%20com%20ramas%20de%20cenoura.jpg",
     content: `<h2 id="ingredientes-">Ingredientes:</h2>
 <ul>
 <li>1 cebola pequena picada</li>
@@ -55,7 +57,8 @@ const receitas = [
   {
     id: "76c285f2",
     title: "Creme de folha de couve-flor",
-    cover: "",
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717768032/recicla%2B/receitas/Creme%20de%20folha%20de%20couve-flor.jpg",
     content: `<h2 id="ingredientes-">Ingredientes:</h2>
 <ul>
 <li>1 cebola pequena picada</li>
@@ -82,7 +85,8 @@ const receitas = [
   {
     id: "6d800d98",
     title: "Pastel assado de talos de agrião",
-    cover: "",
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717768086/recicla%2B/receitas/Pastel%20assado%20de%20talos%20de%20agri%C3%A3o.jpg",
     content: `<h2 id="ingredientes-">Ingredientes:</h2>
 <h3 id="para-a-massa-">Para a Massa:</h3>
 <ul>
@@ -128,8 +132,9 @@ const receitas = [
   {
     id: "c222697a",
     title: "Tira-gosto de casca de batata",
-    cover: "",
-    content: `<h1 id="tira-gosto-de-casca-de-batata">Tira-gosto de Casca de Batata</h1>
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717768138/recicla%2B/receitas/Tira-gosto%20de%20casca%20de%20batata.jpg",
+    content: `
 <h2 id="ingredientes-">Ingredientes:</h2>
 <ul>
 <li>Cascas de batatas</li>
@@ -151,7 +156,8 @@ const receitas = [
   {
     id: "07929266",
     title: "Assado de casca de chuchu",
-    cover: "",
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717768241/recicla%2B/receitas/Assado%20de%20casca%20de%20chuchu.jpg",
     content: `<h2 id="ingredientes-">Ingredientes:</h2>
 <ul>
 <li>3 xícaras (chá) de cascas de chuchu, lavadas, picadas e cozidas</li>
@@ -176,30 +182,33 @@ const receitas = [
   {
     id: "a391f66a",
     title: "Risoto de casca de abóbora",
-    cover: "",
-    content: `# Risoto de Casca de Abóbora
+    cover:
+      "https://res.cloudinary.com/dsolucoes/image/upload/v1717768380/recicla%2B/receitas/Risoto%20de%20casca%20de%20ab%C3%B3bora.jpg",
+    content: `
+    <h2 id="ingredientes-">Ingredientes:</h2>
+<ul>
+<li>1 cebola grande picada</li>
+<li>Cascas de 1 abóbora, bem lavadas e raladas</li>
+<li>1 xícara (chá) de água</li>
+<li>1 pimentão picado</li>
+<li>3 xícaras (chá) de arroz cozido</li>
+<li>1/2 caixinha de creme de leite</li>
+<li>1/2 copo de requeijão</li>
+<li>Cheiro verde a gosto</li>
+<li>Sal e shoyu a gosto</li>
+</ul>
+<h2 id="modo-de-preparo-">Modo de Preparo:</h2>
+<ol>
+<li>Em uma panela, refogue a cebola até ficar dourada.</li>
+<li>Adicione as cascas de abóbora raladas e a água. Deixe cozinhar por 10 a 15 minutos.</li>
+<li>Acrescente o pimentão picado e refogue bem.</li>
+<li>Adicione o arroz cozido aos poucos, alternando com o creme de leite e o requeijão.</li>
+<li>Por último, tempere com cheiro verde, sal e shoyu a gosto.</li>
+<li>Mexa bem até que todos os ingredientes estejam incorporados e o risoto esteja bem cremoso.</li>
+<li>Sirva quente.</li>
+</ol>
+<p><strong>Dica:</strong> Você pode adicionar outros vegetais ou temperos de sua preferência para personalizar este risoto de casca de abóbora ao seu gosto.</p>
 
-## Ingredientes:
-- 1 cebola grande picada
-- Cascas de 1 abóbora, bem lavadas e raladas
-- 1 xícara (chá) de água
-- 1 pimentão picado
-- 3 xícaras (chá) de arroz cozido
-- 1/2 caixinha de creme de leite
-- 1/2 copo de requeijão
-- Cheiro verde a gosto
-- Sal e shoyu a gosto
-
-## Modo de Preparo:
-1. Em uma panela, refogue a cebola até ficar dourada.
-2. Adicione as cascas de abóbora raladas e a água. Deixe cozinhar por 10 a 15 minutos.
-3. Acrescente o pimentão picado e refogue bem.
-4. Adicione o arroz cozido aos poucos, alternando com o creme de leite e o requeijão.
-5. Por último, tempere com cheiro verde, sal e shoyu a gosto.
-6. Mexa bem até que todos os ingredientes estejam incorporados e o risoto esteja bem cremoso.
-7. Sirva quente.
-
-**Dica:** Você pode adicionar outros vegetais ou temperos de sua preferência para personalizar este risoto de casca de abóbora ao seu gosto.
 `,
   },
 ];
