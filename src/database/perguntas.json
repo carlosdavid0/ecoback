@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "40d9277c",
+    "pergunta": "A sacolinha plástica é a grande vilã da sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Não, comparada aos fósseis",
+        "correta": false
+      },
+      {
+        "label": "Sim, pelo seu uso e produção",
+        "correta": true
+      },
+      {
+        "label": "Sim, produz substâncias tóxicas",
+        "correta": false
+      },
+      {
+        "label": "Não, pode ser reciclável",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "7f85e4f8",
+    "pergunta": "É necessário lavar as embalagens para coleta seletiva?",
+    "opcoes": [
+      {
+        "label": "Não, desperdiça água",
+        "correta": false
+      },
+      {
+        "label": "Sim, facilita a reciclagem",
+        "correta": false
+      },
+      {
+        "label": "Não, pode conter agentes patogênicos",
+        "correta": false
+      },
+      {
+        "label": "Não, o processo de reciclagem já incinera",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "59c38876",
+    "pergunta": "É melhor usar utensílios descartáveis para economizar água?",
+    "opcoes": [
+      {
+        "label": "Sim, água é escassa",
+        "correta": false
+      },
+      {
+        "label": "Não, não é a melhor opção",
+        "correta": true
+      },
+      {
+        "label": "Sim, é mais eficiente",
+        "correta": false
+      },
+      {
+        "label": "Não, não é sustentável",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "659a54f9",
+    "pergunta": "Reciclar é sempre a melhor opção?",
+    "opcoes": [
+      {
+        "label": "Sim, é eficiente",
+        "correta": false
+      },
+      {
+        "label": "Sim, reduz imediatamente",
+        "correta": false
+      },
+      {
+        "label": "Não, envolve repensar, reduzir e reutilizar",
+        "correta": true
+      },
+      {
+        "label": "Não, é caro",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "bf179513",
+    "pergunta": "O que é energia hidrelétrica?",
+    "opcoes": [
+      {
+        "label": "Gerada pelo vento",
+        "correta": false
+      },
+      {
+        "label": "Gerada pelo movimento das ondas",
+        "correta": false
+      },
+      {
+        "label": "Gerada pela força da água",
+        "correta": true
+      },
+      {
+        "label": "Gerada pela queima de fósseis",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "3e120dac",
+    "pergunta": "Principal impacto do desmatamento na sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Aumento da biodiversidade",
+        "correta": false
+      },
+      {
+        "label": "Redução de oxigênio",
+        "correta": true
+      },
+      {
+        "label": "Diminuição do efeito estufa",
+        "correta": false
+      },
+      {
+        "label": "Prevenção de deslizamentos",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "6ac8384f",
+    "pergunta": "O que é poluição da água?",
+    "opcoes": [
+      {
+        "label": "Contaminação que não afeta a vida aquática",
+        "correta": false
+      },
+      {
+        "label": "Micro-organismos benéficos",
+        "correta": false
+      },
+      {
+        "label": "Substâncias prejudiciais à água",
+        "correta": true
+      },
+      {
+        "label": "Plantas aquáticas nos corpos d'água",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e29f51f4",
+    "pergunta": "Objetivo das áreas de proteção ambiental?",
+    "opcoes": [
+      {
+        "label": "Exploração descontrolada",
+        "correta": false
+      },
+      {
+        "label": "Urbanização em áreas naturais",
+        "correta": false
+      },
+      {
+        "label": "Conservar ecossistemas e espécies",
+        "correta": true
+      },
+      {
+        "label": "Aumentar a poluição",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "a33b7b62",
+    "pergunta": "O que é biocombustível?",
+    "opcoes": [
+      {
+        "label": "Combustível de matéria orgânica",
+        "correta": true
+      },
+      {
+        "label": "Combustível de petróleo",
+        "correta": false
+      },
+      {
+        "label": "Combustível nuclear",
+        "correta": false
+      },
+      {
+        "label": "Combustível de laboratório",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "d70f240f",
+    "pergunta": "Objetivo da recuperação de áreas degradadas?",
+    "opcoes": [
+      {
+        "label": "Aumentar a degradação",
+        "correta": false
+      },
+      {
+        "label": "Restaurar ecossistemas",
+        "correta": true
+      },
+      {
+        "label": "Criar áreas de desmatamento",
+        "correta": false
+      },
+      {
+        "label": "Promover a urbanização",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "ae68e4b9",
+    "pergunta": "Por que proteger os oceanos?",
+    "opcoes": [
+      {
+        "label": "Não têm importância",
+        "correta": false
+      },
+      {
+        "label": "Fornecem alimentos e regulam o clima",
+        "correta": true
+      },
+      {
+        "label": "Reservatórios de água doce",
+        "correta": false
+      },
+      {
+        "label": "Não impactam a biodiversidade",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "4f7fb5a0",
+    "pergunta": "O que é desmatamento ilegal?",
+    "opcoes": [
+      {
+        "label": "Autorizado pelo governo",
+        "correta": false
+      },
+      {
+        "label": "Em áreas urbanas",
+        "correta": false
+      },
+      {
+        "label": "Sem autorização legal",
+        "correta": true
+      },
+      {
+        "label": "Realizado por ONGs",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "ef087588",
+    "pergunta": "Impacto da acidificação dos oceanos?",
+    "opcoes": [
+      {
+        "label": "Melhoria na vida marinha",
+        "correta": false
+      },
+      {
+        "label": "Aumento da biodiversidade",
+        "correta": false
+      },
+      {
+        "label": "Prejuízo aos recifes de coral",
+        "correta": true
+      },
+      {
+        "label": "Diminuição das chuvas",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "70bc12c7",
+    "pergunta": "O que é transporte sustentável?",
+    "opcoes": [
+      {
+        "label": "Uso exclusivo de transporte aéreo",
+        "correta": false
+      },
+      {
+        "label": "Transporte público e veículos elétricos",
+        "correta": true
+      },
+      {
+        "label": "Carros movidos a combustíveis fósseis",
+        "correta": false
+      },
+      {
+        "label": "Transporte marítimo",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "f0924190",
+    "pergunta": "Importância das áreas de preservação permanente (APPs)?",
+    "opcoes": [
+      {
+        "label": "Urbanização em áreas naturais",
+        "correta": false
+      },
+      {
+        "label": "Proteger margens de rios e nascentes",
+        "correta": true
+      },
+      {
+        "label": "Construção de indústrias",
+        "correta": false
+      },
+      {
+        "label": "Reduzir a biodiversidade",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8afa6fae",
+    "pergunta": "O que é poluição luminosa?",
+    "opcoes": [
+      {
+        "label": "Não afeta o meio ambiente",
+        "correta": false
+      },
+      {
+        "label": "Excesso de luz artificial à noite",
+        "correta": true
+      },
+      {
+        "label": "Mais estrelas visíveis",
+        "correta": false
+      },
+      {
+        "label": "Uso eficiente da iluminação pública",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8215d7bb",
+    "pergunta": "O que são práticas de consumo sustentável?",
+    "opcoes": [
+      {
+        "label": "Comprar descartáveis",
+        "correta": false
+      },
+      {
+        "label": "Comprar produtos de luxo",
+        "correta": false
+      },
+      {
+        "label": "Escolher produtos com menor impacto ambiental",
+        "correta": true
+      },
+      {
+        "label": "Comprar produtos importados",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "80e854c7",
+    "pergunta": "Por que preservar as florestas tropicais é importante?",
+    "opcoes": [
+      {
+        "label": "Não tem relação com a sustentabilidade",
+        "correta": false
+      },
+      {
+        "label": "Regulam o clima e mantêm o equilíbrio hídrico",
+        "correta": true
+      },
+      {
+        "label": "Apenas fontes de madeira",
+        "correta": false
+      },
+      {
+        "label": "Não impacta a biodiversidade",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "af4fedd1",
+    "pergunta": "O que é agricultura de subsistência?",
+    "opcoes": [
+      {
+        "label": "Praticada em estufas",
+        "correta": false
+      },
+      {
+        "label": "Voltada para exportação",
+        "correta": false
+      },
+      {
+        "label": "Exclusiva para autoconsumo",
+        "correta": true
+      },
+      {
+        "label": "Intensiva em grandes propriedades",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "b9b3aef4",
+    "pergunta": "O que significa o termo 'sustentabilidade'?",
+    "opcoes": [
+      {
+        "label": "Uso eficiente de recursos naturais sem comprometer futuras gerações",
+        "correta": true
+      },
+      {
+        "label": "Aumento da produção industrial a qualquer custo.",
+        "correta": false
+      },
+      {
+        "label": "Uso exclusivo de energia renovável.",
+        "correta": false
+      },
+      {
+        "label": "Redução do consumo de água.",
+        "correta": false
+      }
+    ]
+  },
+
+  {
+    "id": "71fc3248",
+    "pergunta": "Qual é a fonte de energia considerada mais sustentável?",
+    "opcoes": [
+      {
+        "label": "Carvão.",
+        "correta": false
+      },
+      {
+        "label": "Petróleo.",
+        "correta": false
+      },
+      {
+        "label": "Solar.",
+        "correta": true
+      },
+      {
+        "label": "Nuclear.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "129caaaa",
+    "pergunta": "O que é biodiversidade?",
+    "opcoes": [
+      {
+        "label": "Quantidade de recursos minerais em uma região.",
+        "correta": false
+      },
+      {
+        "label": "Variedade de vida vegetal e animal em um ecossistema.",
+        "correta": true
+      },
+      {
+        "label": "Número de pessoas em uma cidade.",
+        "correta": false
+      },
+      {
+        "label": "Tipos de clima em uma área.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "f005f14d",
+    "pergunta": "Qual é a prática agrícola que contribui para a sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Monocultura intensiva.",
+        "correta": false
+      },
+      {
+        "label": "Agricultura orgânica.",
+        "correta": true
+      },
+      {
+        "label": "Uso excessivo de pesticidas.",
+        "correta": false
+      },
+      {
+        "label": "Desmatamento para novas plantações.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "6f649b65",
+    "pergunta": "O que é a pegada ecológica?",
+    "opcoes": [
+      {
+        "label": "Área de floresta necessária para sustentar uma população",
+        "correta": false
+      },
+      {
+        "label": "Impacto ambiental medido pela terra e água para sustentar o consumo",
+        "correta": true
+      },
+      {
+        "label": "Distância percorrida por veículos elétricos",
+        "correta": false
+      },
+      {
+        "label": "Quantidade de lixo reciclado",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e54d4c77",
+    "pergunta": "Qual destes materiais é mais fácil de ser reciclado?",
+    "opcoes": [
+      {
+        "label": "Vidro.",
+        "correta": true
+      },
+      {
+        "label": "Plástico.",
+        "correta": false
+      },
+      {
+        "label": "Metal.",
+        "correta": false
+      },
+      {
+        "label": "Papel.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "710c73a7",
+    "pergunta": "O que é aquecimento global?",
+    "opcoes": [
+      {
+        "label": "Resfriamento da Terra devido à perda da camada de ozônio.",
+        "correta": false
+      },
+      {
+        "label": "Aumento da temperatura média da Terra devido ao acúmulo de gases de efeito estufa",
+        "correta": true
+      },
+      {
+        "label": "Movimento das placas tectônicas.",
+        "correta": false
+      },
+      {
+        "label": "Fenômeno natural que ocorre apenas em zonas desérticas.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "25302d24",
+    "pergunta": "Qual é uma das principais causas da poluição do ar nas cidades?",
+    "opcoes": [
+      {
+        "label": "Uso de bicicletas.",
+        "correta": false
+      },
+      {
+        "label": "Emissões de veículos automotores.",
+        "correta": true
+      },
+      {
+        "label": "Plantio de árvores.",
+        "correta": false
+      },
+      {
+        "label": "Consumo de alimentos orgânicos.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "5b822646",
+    "pergunta": "O que é economia circular?",
+    "opcoes": [
+      {
+        "label": "Consumo contínuo de novos produtos",
+        "correta": false
+      },
+      {
+        "label": "Eliminar desperdício e usar recursos continuamente",
+        "correta": true
+      },
+      {
+        "label": "Economia fechada sem exportação/importação",
+        "correta": false
+      },
+      {
+        "label": "Redução de impostos",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "948729ef",
+    "pergunta": "Qual é o maior benefício da energia eólica?",
+    "opcoes": [
+      {
+        "label": "É mais barata que a energia nuclear.",
+        "correta": false
+      },
+      {
+        "label": "Não emite gases de efeito estufa durante a geração de energia.",
+        "correta": true
+      },
+      {
+        "label": "Está disponível em qualquer lugar do mundo.",
+        "correta": false
+      },
+      {
+        "label": "Pode ser armazenada indefinidamente.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8e854255",
+    "pergunta": "O que são energias renováveis?",
+    "opcoes": [
+      {
+        "label": "Esgotam rapidamente",
+        "correta": false
+      },
+      {
+        "label": "Naturalmente reabastecidas rapidamente",
+        "correta": true
+      },
+      {
+        "label": "Gerada por combustíveis fósseis",
+        "correta": false
+      },
+      {
+        "label": "Usada em indústrias pesadas",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "36bdcc42",
+    "pergunta": "Qual é a importância das florestas para a sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Fornecem madeira para construção.",
+        "correta": false
+      },
+      {
+        "label": "Ajudam na regulação do clima e absorvem dióxido de carbono.",
+        "correta": true
+      },
+      {
+        "label": "Ocupam espaço que poderia ser usado para agricultura.",
+        "correta": false
+      },
+      {
+        "label": "São habitat para espécies perigosas.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "de323d17",
+    "pergunta": "Qual é o impacto do plástico nos oceanos?",
+    "opcoes": [
+      {
+        "label": "Serve de alimento para a fauna marinha.",
+        "correta": false
+      },
+      {
+        "label": "Ajuda a filtrar a água do mar.",
+        "correta": false
+      },
+      {
+        "label": "Polui os oceanos, prejudicando a vida marinha e a cadeia alimentar.",
+        "correta": true
+      },
+      {
+        "label": "Não tem impacto significativo.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8f72c1a4",
+    "pergunta": "Qual é a prática mais sustentável para o descarte de resíduos eletrônicos?",
+    "opcoes": [
+      {
+        "label": "Jogar no lixo comum.",
+        "correta": false
+      },
+      {
+        "label": "Queimar os dispositivos.",
+        "correta": false
+      },
+      {
+        "label": "Reciclar em centros especializados.",
+        "correta": true
+      },
+      {
+        "label": "Enterrar em aterros sanitários.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e234f21a",
+    "pergunta": "O que é compostagem?",
+    "opcoes": [
+      {
+        "label": "Processo de reciclagem de plásticos.",
+        "correta": false
+      },
+      {
+        "label": "Transformação de resíduos orgânicos em adubo.",
+        "correta": true
+      },
+      {
+        "label": "Uso de água reciclada para irrigação.",
+        "correta": false
+      },
+      {
+        "label": "Tecnologia de energia solar.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "66655ef9",
+    "pergunta": "Qual é uma maneira eficaz de economizar água em casa?",
+    "opcoes": [
+      {
+        "label": "Deixar a torneira aberta enquanto escova os dentes.",
+        "correta": false
+      },
+      {
+        "label": "Usar a mangueira para limpar a calçada.",
+        "correta": false
+      },
+      {
+        "label": "Instalar redutores de fluxo em torneiras e chuveiros.",
+        "correta": true
+      },
+      {
+        "label": "Tomar banhos longos.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "b726a849",
+    "pergunta": "O que significa o termo 'desenvolvimento sustentável'?",
+    "opcoes": [
+      {
+        "label": "Crescimento econômico a qualquer custo",
+        "correta": false
+      },
+      {
+        "label": "Atender às necessidades atuais sem comprometer o futuro",
+        "correta": true
+      },
+      {
+        "label": "Expansão urbana sem planejamento",
+        "correta": false
+      },
+      {
+        "label": "Aumento do consumo de energia",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "b437d0c1",
+    "pergunta": "O que é o efeito estufa?",
+    "opcoes": [
+      {
+        "label": "Fenômeno pelo qual a atmosfera da Terra retém calor, aquecendo o planeta.",
+        "correta": true
+      },
+      {
+        "label": "Aumento da camada de ozônio.",
+        "correta": false
+      },
+      {
+        "label": "Resfriamento global.",
+        "correta": false
+      },
+      {
+        "label": "Processamento de resíduos orgânicos.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8f75af94",
+    "pergunta": "Por que é importante reduzir o consumo de carne para a sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Carne não é saudável.",
+        "correta": false
+      },
+      {
+        "label": "Carne gera emissões de gases de efeito estufa e consome muita água e terra",
+        "correta": true
+      },
+      {
+        "label": "Reduz a biodiversidade.",
+        "correta": false
+      },
+      {
+        "label": "Carne é cara.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "2f11ad79",
+    "pergunta": "O que é agricultura sustentável?",
+    "opcoes": [
+      {
+        "label": "Prática agrícola que utiliza grandes quantidades de pesticidas e fertilizantes químicos.",
+        "correta": false
+      },
+      {
+        "label": "Prática agrícola sustentável, mantendo saúde do solo, ecossistemas e pessoas",
+        "correta": true
+      },
+      {
+        "label": "Agricultura que utiliza apenas sementes geneticamente modificadas.",
+        "correta": false
+      },
+      {
+        "label": "Agricultura praticada exclusivamente em estufas.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "dd4c609a",
+    "pergunta": "Qual é o objetivo da reciclagem?",
+    "opcoes": [
+      {
+        "label": "Aumentar a quantidade de lixo nos aterros sanitários.",
+        "correta": false
+      },
+      {
+        "label": "Transformar resíduos em novos produtos para reduzir uso de matérias-primas e poluição",
+        "correta": true
+      },
+      {
+        "label": "Incinerar resíduos para geração de energia.",
+        "correta": false
+      },
+      {
+        "label": "Produzir mais resíduos recicláveis.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "5ffb679d",
+    "pergunta": "O que significa o conceito de 'carbono neutro'?",
+    "opcoes": [
+      {
+        "label": "Não emitir dióxido de carbono em nenhuma atividade.",
+        "correta": false
+      },
+      {
+        "label": "Emitir CO2 compensado pela remoção equivalente da atmosfera",
+        "correta": true
+      },
+      {
+        "label": "Uso exclusivo de combustíveis fósseis.",
+        "correta": false
+      },
+      {
+        "label": "Produzir carbono em grandes quantidades.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "63404006",
+    "pergunta": "Por que a redução do uso de plásticos é importante para o meio ambiente?",
+    "opcoes": [
+      {
+        "label": "Plásticos são caros.",
+        "correta": false
+      },
+      {
+        "label": "Plásticos são biodegradáveis.",
+        "correta": false
+      },
+      {
+        "label": "Plásticos poluem os oceanos e demoram centenas de anos para se decompor.",
+        "correta": true
+      },
+      {
+        "label": "Plásticos são recursos renováveis.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "0d03f56c",
+    "pergunta": "O que é o consumo consciente?",
+    "opcoes": [
+      {
+        "label": "Consumo desenfreado",
+        "correta": false
+      },
+      {
+        "label": "Considerar impactos ambientais, sociais e econômicos",
+        "correta": true
+      },
+      {
+        "label": "Comprar produtos importados",
+        "correta": false
+      },
+      {
+        "label": "Consumir produtos de luxo",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "81401e80",
+    "pergunta": "Qual é o impacto da poluição do solo na sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Aumento da fertilidade do solo.",
+        "correta": false
+      },
+      {
+        "label": "Diminuição da biodiversidade e contaminação de lençóis freáticos.",
+        "correta": true
+      },
+      {
+        "label": "Melhoria da qualidade do ar.",
+        "correta": false
+      },
+      {
+        "label": "Redução da erosão.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "2afebafa",
+    "pergunta": "Qual é o impacto da poluição sonora na saúde humana?",
+    "opcoes": [
+      {
+        "label": "Melhora a qualidade de vida.",
+        "correta": false
+      },
+      {
+        "label": "Pode causar estresse, insônia e problemas de saúde mental.",
+        "correta": true
+      },
+      {
+        "label": "Aumenta a concentração e a produtividade.",
+        "correta": false
+      },
+      {
+        "label": "Não tem impacto significativo.",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "f679522e",
+    "pergunta": "O que é a Agenda 2030?",
+    "opcoes": [
+      {
+        "label": "Plano global para erradicar a pobreza, proteger o planeta e garantir a prosperidade",
+        "correta": true
+      },
+      {
+        "label": "Incentivo ao consumo desenfreado",
+        "correta": false
+      },
+      {
+        "label": "Acordo para aumentar a produção industrial",
+        "correta": false
+      },
+      {
+        "label": "Meta de aumentar a emissão de gases de efeito estufa",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "a2871b3d",
+    "pergunta": "Qual é a principal fonte de energia renovável utilizada no mundo?",
+    "opcoes": [
+      {
+        "label": "Solar",
+        "correta": false
+      },
+      {
+        "label": "Eólica",
+        "correta": false
+      },
+      {
+        "label": "Hidrelétrica",
+        "correta": true
+      },
+      {
+        "label": "Biomassa",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "74b2529c",
+    "pergunta": "Qual é o principal benefício das áreas de conservação ambiental?",
+    "opcoes": [
+      {
+        "label": "Proteção da biodiversidade",
+        "correta": true
+      },
+      {
+        "label": "Aumento da poluição",
+        "correta": false
+      },
+      {
+        "label": "Desenvolvimento econômico",
+        "correta": false
+      },
+      {
+        "label": "Exploração descontrolada dos recursos naturais",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "c168275c",
+    "pergunta": "Qual é o principal problema causado pelos resíduos eletrônicos?",
+    "opcoes": [
+      {
+        "label": "Poluição do solo",
+        "correta": false
+      },
+      {
+        "label": "Poluição da água",
+        "correta": false
+      },
+      {
+        "label": "Poluição do ar",
+        "correta": false
+      },
+      {
+        "label": "Todos os anteriores",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "b5545811",
+    "pergunta": "Qual é o principal impacto da destruição do habitat natural dos animais?",
+    "opcoes": [
+      {
+        "label": "Extinção de espécies",
+        "correta": true
+      },
+      {
+        "label": "Aumento da biodiversidade",
+        "correta": false
+      },
+      {
+        "label": "Diminuição da poluição",
+        "correta": false
+      },
+      {
+        "label": "Todos os anteriores",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "d3cbf3a9",
+    "pergunta": "Qual é a importância das abelhas para o meio ambiente?",
+    "opcoes": [
+      {
+        "label": "Polinização das plantas",
+        "correta": true
+      },
+      {
+        "label": "Controle de pragas",
+        "correta": false
+      },
+      {
+        "label": "Produção de mel",
+        "correta": false
+      },
+      {
+        "label": "Todas as anteriores",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "fca94b77",
+    "pergunta": "Como se chama o processo de transformar materiais usados em novos produtos?",
+    "opcoes": [
+      {
+        "label": "Reciclar",
+        "correta": true
+      },
+      {
+        "label": "Reduzir",
+        "correta": false
+      },
+      {
+        "label": "Refrabricação",
+        "correta": false
+      },
+      {
+        "label": "Recuperação",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "393b8686",
+    "pergunta": "Qual é a cor do recipiente de coleta seletiva para vidro?",
+    "opcoes": [
+      {
+        "label": "Azul",
+        "correta": false
+      },
+      {
+        "label": "Amarelo",
+        "correta": false
+      },
+      {
+        "label": "Verde",
+        "correta": true
+      },
+      {
+        "label": "Azul",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "9e20261b",
+    "pergunta": "O que significa a sigla '3R' quando se fala sobre sustentabilidade?",
+    "opcoes": [
+      {
+        "label": "Reciclar, reduzir e recuperar",
+        "correta": false
+      },
+      {
+        "label": "Reduzir Reciclar e reutilizar",
+        "correta": true
+      },
+      {
+        "label": "Refrabricação, reduzir e Reciclar",
+        "correta": false
+      },
+      {
+        "label": "Recuperação, reciclar e reutilizar",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "a9285d4f",
+    "pergunta": "Qual é a cor do recipiente de coleta seletiva para plásticos?",
+    "opcoes": [
+      {
+        "label": "Vermelho",
+        "correta": true
+      },
+      {
+        "label": "Roxo",
+        "correta": false
+      },
+      {
+        "label": "Preto",
+        "correta": false
+      },
+      {
+        "label": "Amarelo",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "da0ba736",
+    "pergunta": "Qual é a cor do recipiente de coleta seletiva para papéis?",
+    "opcoes": [
+      {
+        "label": "Preto",
+        "correta": false
+      },
+      {
+        "label": "Azul",
+        "correta": true
+      },
+      {
+        "label": "Lilás",
+        "correta": false
+      },
+      {
+        "label": "Marrom",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e5826b7a",
+    "pergunta": "Qual é o símbolo universal da reciclagem?",
+    "opcoes": [
+      {
+        "label": "🔥",
+        "correta": false
+      },
+      {
+        "label": "☀️",
+        "correta": false
+      },
+      {
+        "label": "🌎",
+        "correta": false
+      },
+      {
+        "label": "♻️",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "fea08a9f",
+    "pergunta": "Todos os itens abaixo são lixo orgânico, exceto?",
+    "opcoes": [
+      {
+        "label": "Casca se banana",
+        "correta": false
+      },
+      {
+        "label": "Casca de ovo",
+        "correta": false
+      },
+      {
+        "label": "Resto de frutas",
+        "correta": false
+      },
+      {
+        "label": "Pilhas",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "89d95193",
+    "pergunta": "Qual é a cor do recipiente de coleta seletiva para lixo orgânico?",
+    "opcoes": [
+      {
+        "label": "Amarelo",
+        "correta": false
+      },
+      {
+        "label": "Preto",
+        "correta": false
+      },
+      {
+        "label": "Cinza",
+        "correta": false
+      },
+      {
+        "label": "Marrom",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "8087d843",
+    "pergunta": "Qual é a cor do recipiente de coleta seletiva para lixo Hospitalar?",
+    "opcoes": [
+      {
+        "label": "Azul",
+        "correta": false
+      },
+      {
+        "label": "Verde",
+        "correta": false
+      },
+      {
+        "label": "Branco",
+        "correta": true
+      },
+      {
+        "label": "Vermelho",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "2e0178f1",
+    "pergunta": "Qual a principal causa do desmatamento?",
+    "opcoes": [
+      {
+        "label": "Aumento de espaço para atividades humanas",
+        "correta": true
+      },
+      {
+        "label": "Aumento das áreas de reserva natural",
+        "correta": false
+      },
+      {
+        "label": "Proteção de espécies ameaçadas",
+        "correta": false
+      },
+      {
+        "label": "Redução das emissões de carbono",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "f91d55dd",
+    "pergunta": "Qual a principal causa do desmatamento?",
+    "opcoes": [
+      {
+        "label": "Aumento de espaço para atividades humanas",
+        "correta": true
+      },
+      {
+        "label": "Aumento das áreas de reserva natural",
+        "correta": false
+      },
+      {
+        "label": "Proteção de espécies ameaçadas",
+        "correta": false
+      },
+      {
+        "label": "Redução das emissões de carbono",
+        "correta": false
+      }
+    ]
+  }
+]
